@@ -1,8 +1,8 @@
 <img align="right" src="https://count.getloli.com/get/@:Minori-ty?theme=rule34">
 
-## 前端工程师—orangefeng
+## 编程爱好者—chunyang
 
-热爱前端、热爱技术。工作经验3年。喜欢参与一些开源项目的讨论。
+热爱编程、热爱技术。
 
 ### **社交主页：**
 
@@ -27,7 +27,7 @@
 
 ### Github 活跃度
 
-[![](https://activity-graph.herokuapp.com/graph?username=3154591766&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=3154591766&show_icons=true&theme=vue)
+[![](https://activity-graph.herokuapp.com/graph?username=chunyangnet&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=chunyangnet&show_icons=true&theme=vue)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3154581766)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chunyangnet)
